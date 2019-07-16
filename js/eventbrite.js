@@ -1,7 +1,7 @@
 class EventBrite{
 
     constructor(){
-        this.token = 'BHIGI6GZXM4G5PDZR6GU';
+        this.token = 'YOUR_API_KEY';
         this.ordenar = 'date';
     }
 
